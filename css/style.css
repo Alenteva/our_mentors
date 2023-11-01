@@ -1,0 +1,10 @@
+.section-mentors {
+  background: var(--black, #121212);
+}
+
+.img-element {
+  border-radius: 200px;
+  background: url(<path-to-image>), lightgray 50% / cover no-repeat, #e0e0e0;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  opacity: 1;
+}
